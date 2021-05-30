@@ -1,3 +1,15 @@
+# Result analysis
+
+### Part 2
+
+​	For part 2, we finish the detection of memory allocation and also finish the memory leak for extension.
+
+​	The `history_*.log` record the history of memory release and detect.
+
+​	The `result_*.log` record the memory leaking.
+
+​	There is an example bellow.
+
 # Implementatiom
 
 ## Detect memory allocation and release in a process
@@ -98,6 +110,10 @@ class MemAllocate{
 # Future direction
    Cause the memory allocation and free is only for data segement, we can try to detect rest segements like heap, stack and code.
 # Summary
+
+
 # Division of labor
- 
+
+* 王照伟：
+* 陈启龙：Detect memory allocation and release in a process and record the memory leak.
 

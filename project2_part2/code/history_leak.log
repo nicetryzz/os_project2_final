@@ -1,0 +1,39 @@
+======================================================================
+type:         Memory Allocate
+pointer:      0x5623d18283f0
+Size:                       4
+File:                leak.cpp
+Line:                      22
+======================================================================
+type:         Memory Allocate
+pointer:      0x5623d1828450
+Size:                       8
+File:                leak.cpp
+Line:                      23
+======================================================================
+type:         Memory Allocate
+pointer:      0x5623d18284b0
+Size:                       4
+File:                leak.cpp
+Line:                      24
+======================================================================
+type:         Memory Allocate
+pointer:      0x5623d1828510
+Size:                      40
+File:                leak.cpp
+Line:                      25
+======================================================================
+type:         Memory Allocate
+pointer:      0x5623d1828580
+Size:                       4
+File:                leak.cpp
+Line:                      26
+======================================================================
+type:                Memory Free
+pointer:      0x5623d1828580
+======================================================================
+type:         Memory Allocate
+pointer:      0x5623d1828580
+Size:                       8
+File:                leak.cpp
+Line:                      27

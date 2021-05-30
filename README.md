@@ -96,8 +96,7 @@ class MemAllocate{
 ​	And at the end of process, print the rest node in double linked list to check the memory leak.
 
 # Future direction
-
-    Cause the memory allocation and free is only for data segement, we can try to detect rest segements like heap, stack and code.
+   Cause the memory allocation and free is only for data segement, we can try to detect rest segements like heap, stack and code.
 # Summary
 # Division of labor
  
